@@ -1,6 +1,6 @@
 # ct_repo
 
-A repo containing a collection of constant-time code I encountered in the while (mostly comparison):
+A repo containing a collection of constant-time code I encountered in the wild (mostly comparison):
 
 1. [tinyssh](https://github.com/janmojzis/tinyssh): file [sshcrypto_kex_curve25519.c](https://github.com/janmojzis/tinyssh/blob/e4db2a2181c104c7780e9f077923e2368a4386ee/tinyssh/sshcrypto_kex_curve25519.c), see function curve25519_dh()
 
