@@ -19,3 +19,6 @@ see function NSS_SecureMemcmpZero()
 7. [openssl](https://github.com/openssl/openssl): file [cryptlib.c](https://github.com/openssl/openssl/blob/master/crypto/cryptlib.c), see 
 function CRYPTO_memcmp(). Many others in file [constant_time_locl.h](https://github.com/openssl/openssl/blob/master/include/internal/constant_time_locl.h)
 
+8. [optee](https://github.com/OP-TEE): file [consttime_memcmp.c](https://github.com/OP-TEE/optee_os/blob/42461166ec5dc1bfd0124acd73ba53dcd962611d/lib/libutils/ext/consttime_memcmp.c), see function 
+consttime_memcmp()
+
