@@ -22,3 +22,5 @@ function CRYPTO_memcmp(). Many others in file [constant_time_locl.h](https://git
 8. [optee](https://github.com/OP-TEE): file [consttime_memcmp.c](https://github.com/OP-TEE/optee_os/blob/42461166ec5dc1bfd0124acd73ba53dcd962611d/lib/libutils/ext/consttime_memcmp.c), see function 
 consttime_memcmp()
 
+9. [cryptocoding](https://github.com/veorq/cryptocoding): the entire [README](https://github.com/veorq/cryptocoding)
+
